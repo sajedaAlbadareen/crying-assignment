@@ -1,0 +1,12 @@
+{
+  "firstname": "ff",
+  "lastname": "www",
+  "password": "qww",
+  "email": "email",
+  "year": [
+    "1996",
+    "1997",
+    "1997"
+  ],
+  "gender": "female"
+}
